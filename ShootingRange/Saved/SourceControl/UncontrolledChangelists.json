@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/Blueprints/BP_Target.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/CM/JZ3A9XCF5TC0ZXQQQ27CCH.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/Blueprints/BP_MovingTarget.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/2Q/G1MJG640XGNUF8D7IP8NQ3.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/Blueprints/BP_TargetText.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/UI/WBP_HUD.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/violanteagus/Desktop/Githubs/ShootingRange/ShootingRange/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset"
+			]
+		}
+	]
+}
